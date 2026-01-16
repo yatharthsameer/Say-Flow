@@ -1,0 +1,1 @@
+{"version":3,"file":"hotkeyService.d.ts","sourceRoot":"","sources":["../../../src/main/services/hotkeyService.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,QAAQ,EAAE,YAAY,EAAE,MAAM,oBAAoB,CAAC;AAO5D,eAAO,MAAM,iBAAiB,GAAI,UAAU,QAAQ,KAAG,IAiDtD,CAAC;AAEF,eAAO,MAAM,YAAY,GAAI,QAAQ,YAAY,KAAG,IAGnD,CAAC;AAEF,eAAO,MAAM,iBAAiB,QAAO,IAUpC,CAAC;AA0BF,eAAO,MAAM,cAAc,QAAO,OAEjC,CAAC"}
